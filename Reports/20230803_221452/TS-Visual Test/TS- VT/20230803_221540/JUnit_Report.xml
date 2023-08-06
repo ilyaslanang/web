@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS- VT" time="38.32" tests="1" failures="0" errors="0">
+   <testsuite name="TS- VT" tests="1" failures="0" errors="0" time="38.32" skipped="0" timestamp="2023-08-03 22:15:52" hostname="acer - anehsialan" id="Test Suites/TS-Visual Test/TS- VT">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\acer\\git\\webuiproject\\Reports\\20230803_221452\\TS-Visual Test\\TS- VT\\20230803_221540"/>
+         <property name="logFiles" value="C:\\Users\\acer\\git\\webuiproject\\Reports\\20230803_221452\\TS-Visual Test\\TS- VT\\20230803_221540\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-ssAppointment.png"/>
+         <property name="hostName" value="acer - anehsialan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="192.168.233.170"/>
+         <property name="sessionId" value="09458c6b3d17e2fe4218f2b4e582c5b7"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Visual testing/buat appointment" time="38.139" classname="Test Cases/Visual testing/buat appointment" status="PASSED">
+         <system-out><![CDATA[2023-08-03 22:15:52 - [TEST_CASE][PASSED] - Test Cases/Visual testing/buat appointment: Test Cases/Visual testing/buat appointment
+
+2023-08-03 22:15:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-08-03 22:15:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-03 22:15:53 - [MESSAGE][INFO] - Action delay is set to 1,000 milliseconds
+
+2023-08-03 22:15:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-08-03 22:15:55 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-08-03 22:16:06 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-08-03 22:16:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/BtnMakeAppointment")): Object: 'Object Repository/Page_CURA Healthcare Service/BtnMakeAppointment' is clicked on
+
+2023-08-03 22:16:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/BtnMakeAppointment' is clicked on
+
+2023-08-03 22:16:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/txtUsername"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/txtUsername'
+
+2023-08-03 22:16:11 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/txtUsername'
+
+2023-08-03 22:16:11 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/txtPassword"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/txtPassword'
+
+2023-08-03 22:16:13 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/txtPassword'
+
+2023-08-03 22:16:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/btnLogin")): Object: 'Object Repository/Page_CURA Healthcare Service/btnLogin' is clicked on
+
+2023-08-03 22:16:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btnLogin' is clicked on
+
+2023-08-03 22:16:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/cbApply for hospital readmission")): Object: 'Object Repository/Page_CURA Healthcare Service/cbApply for hospital readmission' is clicked on
+
+2023-08-03 22:16:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/cbApply for hospital readmission' is clicked on
+
+2023-08-03 22:16:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/cbMedicaid_programs")): Object: 'Object Repository/Page_CURA Healthcare Service/cbMedicaid_programs' is clicked on
+
+2023-08-03 22:16:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/cbMedicaid_programs' is clicked on
+
+2023-08-03 22:16:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/txtVisit Date")): Object: 'Object Repository/Page_CURA Healthcare Service/txtVisit Date' is clicked on
+
+2023-08-03 22:16:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/txtVisit Date' is clicked on
+
+2023-08-03 22:16:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/td_9")): Object: 'Object Repository/Page_CURA Healthcare Service/td_9' is clicked on
+
+2023-08-03 22:16:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_9' is clicked on
+
+2023-08-03 22:16:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/text_Comment"), "sakit"): Text 'sakit' is set on object 'Object Repository/Page_CURA Healthcare Service/text_Comment'
+
+2023-08-03 22:16:24 - [MESSAGE][PASSED] - Text 'sakit' is set on object 'Object Repository/Page_CURA Healthcare Service/text_Comment'
+
+2023-08-03 22:16:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/btnBook Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/btnBook Appointment' is clicked on
+
+2023-08-03 22:16:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btnBook Appointment' is clicked on
+
+2023-08-03 22:16:29 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("ssAppointment", []): Taking screenshot successfully
+
+2023-08-03 22:16:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-08-03 22:16:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-ssAppointment.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-03 22:15:52 - [TEST_SUITE][PASSED] - TS- VT: Test Cases/Visual testing/buat appointment]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

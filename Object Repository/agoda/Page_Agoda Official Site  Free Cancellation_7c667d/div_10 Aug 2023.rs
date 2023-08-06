@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10 Aug 2023</name>
+   <tag></tag>
+   <elementGuidId>48f3f13d-ab60-4865-af04-3332f650e4bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='check-in-box']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchBoxTextDescription__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08397b1e-39c8-4922-bebc-00c252040bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchBoxTextDescription__title</value>
+      <webElementGuid>ed495848-6b6f-4d32-88f6-fee5079a4aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08030214-a79a-4003-b89d-613d43c9b344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select check-in date. Current check-in date is 10 Aug 2023</value>
+      <webElementGuid>0fc7d4ad-f042-4075-b4c0-195e89ea4dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selenium</name>
+      <type>Main</type>
+      <value>checkInText</value>
+      <webElementGuid>fbdec961-e4ad-49b4-8591-5ac71a7dee1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10 Aug 2023</value>
+      <webElementGuid>d54e409e-eaa5-404e-a842-a276e70e8de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;check-in-box&quot;)/div[@class=&quot;IconBox__wrapper&quot;]/div[@class=&quot;IconBox__child&quot;]/div[@class=&quot;SearchBoxTextDescription SearchBoxTextDescription--checkIn&quot;]/div[@class=&quot;SearchBoxTextDescription__title&quot;]</value>
+      <webElementGuid>b00f0ee0-e811-45d9-ba67-d19361b8b723</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='check-in-box']/div/div/div/div</value>
+      <webElementGuid>5a4c0c2a-9d23-4e7d-b1f5-0ae74ef43131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day Use Stays'])[1]/following::div[8]</value>
+      <webElementGuid>9bed477b-a0c2-40d9-9cae-227e0b7f16b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overnight Stays'])[1]/following::div[9]</value>
+      <webElementGuid>b39cf0c2-a5ab-451f-a7fb-94e2ae9ab25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thursday'])[1]/preceding::div[1]</value>
+      <webElementGuid>dc76db69-81f6-47dd-8bdd-4001a8bbab7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Friday'])[1]/preceding::div[3]</value>
+      <webElementGuid>5e5c1ac8-5d9f-4fe2-a7b0-4f3cc51606d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10 Aug 2023']/parent::*</value>
+      <webElementGuid>23549cf5-f30a-4e51-b292-28d408b95aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>84b36fb4-be3d-4a2d-bea3-b4ed8f4abca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '10 Aug 2023' or . = '10 Aug 2023')]</value>
+      <webElementGuid>a2dd8014-9c6e-4ef5-9a40-a920fb76df38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

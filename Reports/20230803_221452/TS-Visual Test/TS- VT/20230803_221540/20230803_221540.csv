@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS- VT,Chrome 115.0.0.0,,,2023-08-03 22:15:52,2023-08-03 22:16:30,38.320s,PASSED
+,,,,,,,
+Test Cases/Visual testing/buat appointment,Chrome 115.0.0.0,,,2023-08-03 22:15:52,2023-08-03 22:16:30,38.139s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-03 22:15:52,2023-08-03 22:15:55,2.739s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 115.0.0.0,,,2023-08-03 22:15:55,2023-08-03 22:16:06,10.571s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/BtnMakeAppointment""))",Chrome 115.0.0.0,,,2023-08-03 22:16:06,2023-08-03 22:16:08,2.241s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/txtUsername""), ""John Doe"")",Chrome 115.0.0.0,,,2023-08-03 22:16:08,2023-08-03 22:16:11,2.780s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/txtPassword""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 115.0.0.0,,,2023-08-03 22:16:11,2023-08-03 22:16:13,2.432s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/btnLogin""))",Chrome 115.0.0.0,,,2023-08-03 22:16:13,2023-08-03 22:16:15,2.195s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/cbApply for hospital readmission""))",Chrome 115.0.0.0,,,2023-08-03 22:16:15,2023-08-03 22:16:17,1.394s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/cbMedicaid_programs""))",Chrome 115.0.0.0,,,2023-08-03 22:16:17,2023-08-03 22:16:18,1.400s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/txtVisit Date""))",Chrome 115.0.0.0,,,2023-08-03 22:16:18,2023-08-03 22:16:19,1.462s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_9""))",Chrome 115.0.0.0,,,2023-08-03 22:16:19,2023-08-03 22:16:21,1.649s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/text_Comment""), ""sakit"")",Chrome 115.0.0.0,,,2023-08-03 22:16:21,2023-08-03 22:16:24,2.967s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/btnBook Appointment""))",Chrome 115.0.0.0,,,2023-08-03 22:16:24,2023-08-03 22:16:29,4.929s,PASSED
+"takeScreenshotAsCheckpoint(""ssAppointment"", [])",Chrome 115.0.0.0,,,2023-08-03 22:16:29,2023-08-03 22:16:30,1.159s,PASSED

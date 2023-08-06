@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Exact dates_i1tm2vut dir dir-ltr</name>
+   <tag></tag>
+   <elementGuidId>9487d294-6364-419d-aa1b-8d2d56615f66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='micro-flex-chips']/div[2]/div[4]/label/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8a87ebea-efbb-4833-a9d8-68f5a7f0e9c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>i1tm2vut dir dir-ltr</value>
+      <webElementGuid>49c43da4-bb11-445d-a9c4-a4c44635fc41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;micro-flex-chips&quot;)/div[@class=&quot;cizdcso h16bw5lk dir dir-ltr&quot;]/div[@class=&quot;c1a2lexk dir dir-ltr&quot;]/label[@class=&quot;c7g6zee cd8mimv dir dir-ltr&quot;]/div[@class=&quot;t1bq9hd9 dir dir-ltr&quot;]/div[@class=&quot;i1tm2vut dir dir-ltr&quot;]</value>
+      <webElementGuid>2a609137-8312-409d-b5e1-86022bb04cc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='micro-flex-chips']/div[2]/div[4]/label/div/div</value>
+      <webElementGuid>17d41620-fd45-44bf-9a1a-3a831ae1b9d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exact dates'])[1]/following::div[11]</value>
+      <webElementGuid>1cf0c02f-28e7-48f4-a6ac-f1ca7dd6944a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flexible dates'])[1]/following::div[15]</value>
+      <webElementGuid>43d3c627-010e-4c12-8339-e71ab19c113e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('When', &quot;'&quot;, 's your trip?')])[1]/preceding::div[6]</value>
+      <webElementGuid>ecbbcda0-ed19-4402-8610-f7f8bd412565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='months'])[1]/preceding::div[11]</value>
+      <webElementGuid>9f4e2110-3b08-4fe9-a071-0dbf6b8b96c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/div/div</value>
+      <webElementGuid>5211f683-8905-4729-8f08-9a4e0c4d4dd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

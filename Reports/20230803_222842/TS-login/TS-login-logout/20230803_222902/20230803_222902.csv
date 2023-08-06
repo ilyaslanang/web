@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-login-logout,Chrome 115.0.0.0,,,2023-08-03 22:29:14,2023-08-03 22:29:41,27.291s,PASSED
+,,,,,,,
+Test Cases/Reuse TC/RTC-01 login,Chrome 115.0.0.0,,smoke,2023-08-03 22:29:14,2023-08-03 22:29:36,22.231s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-03 22:29:14,2023-08-03 22:29:16,1.863s,PASSED
+navigateToUrl(URL),Chrome 115.0.0.0,,,2023-08-03 22:29:16,2023-08-03 22:29:26,10.307s,PASSED
+maximizeWindow(),Chrome 115.0.0.0,,,2023-08-03 22:29:26,2023-08-03 22:29:26,0.141s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/BtnMakeAppointment""))",Chrome 115.0.0.0,,,2023-08-03 22:29:26,2023-08-03 22:29:29,2.297s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/txtUsername""), NAME)",Chrome 115.0.0.0,,,2023-08-03 22:29:29,2023-08-03 22:29:31,2.816s,PASSED
+"setEncryptedText(findTestObject(""Page_CURA Healthcare Service/txtPassword""), PASS)",Chrome 115.0.0.0,,,2023-08-03 22:29:31,2023-08-03 22:29:34,2.475s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/btnLogin""))",Chrome 115.0.0.0,,,2023-08-03 22:29:34,2023-08-03 22:29:36,2.152s,PASSED
+,,,,,,,
+Test Cases/Reuse TC/RTC-02 logout,Chrome 115.0.0.0,,,2023-08-03 22:29:36,2023-08-03 22:29:41,4.892s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/idCURA Healthcare_menu-toggle""))",Chrome 115.0.0.0,,,2023-08-03 22:29:36,2023-08-03 22:29:38,1.395s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/btnLogout""))",Chrome 115.0.0.0,,,2023-08-03 22:29:38,2023-08-03 22:29:40,2.513s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-03 22:29:40,2023-08-03 22:29:41,0.853s,PASSED

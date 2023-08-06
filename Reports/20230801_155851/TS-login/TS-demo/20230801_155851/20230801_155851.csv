@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-demo,Linux - Firefox 114.0,,,2023-08-01 15:58:59,2023-08-01 16:03:01,4m - 2.162s,PASSED
+,,,,,,,
+Test Cases/yg lain/Booking,Linux - Firefox 114.0,,,2023-08-01 15:58:59,2023-08-01 16:01:01,2m - 1.793s,PASSED
+"callTestCase(findTestCase(""yg lain/Login""), [:], STOP_ON_FAILURE)",Linux - Firefox 114.0,,,2023-08-01 15:58:59,2023-08-01 16:00:17,1m - 17.532s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Linux - Firefox 114.0,,,2023-08-01 16:00:17,2023-08-01 16:00:22,5.098s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/label_Medicaid""))",Linux - Firefox 114.0,,,2023-08-01 16:00:22,2023-08-01 16:00:26,4.383s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Linux - Firefox 114.0,,,2023-08-01 16:00:26,2023-08-01 16:00:31,4.372s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/td_3""))",Linux - Firefox 114.0,,,2023-08-01 16:00:31,2023-08-01 16:00:36,4.734s,PASSED
+"setText(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Aku sakit hati tapi pacarku cantik dan baik"")",Linux - Firefox 114.0,,,2023-08-01 16:00:36,2023-08-01 16:00:45,9.356s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/button_Book Appointment""))",Linux - Firefox 114.0,,,2023-08-01 16:00:45,2023-08-01 16:00:50,5.052s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/appointment.php#summary"")",Linux - Firefox 114.0,,,2023-08-01 16:00:50,2023-08-01 16:00:52,1.947s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/a_Go to Homepage""))",Linux - Firefox 114.0,,,2023-08-01 16:00:52,2023-08-01 16:00:56,4.370s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/h2_Appointment Confirmation""), 0)",Linux - Firefox 114.0,,,2023-08-01 16:00:56,2023-08-01 16:00:59,2.928s,PASSED
+closeBrowser(),Linux - Firefox 114.0,,,2023-08-01 16:00:59,2023-08-01 16:01:01,1.745s,PASSED
+,,,,,,,
+Test Cases/yg lain/Login n Booking,Linux - Firefox 114.0,,,2023-08-01 16:01:01,2023-08-01 16:03:01,2m - 0.163s,PASSED
+"openBrowser("""")",Linux - Firefox 114.0,,,2023-08-01 16:01:01,2023-08-01 16:01:33,31.658s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Linux - Firefox 114.0,,,2023-08-01 16:01:33,2023-08-01 16:01:35,2.495s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/h1_CURA Healthcare Service""), ""CURA Healthcare Service"")",Linux - Firefox 114.0,,,2023-08-01 16:01:35,2023-08-01 16:01:39,3.687s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Make Appointment""), ""Make Appointment"")",Linux - Firefox 114.0,,,2023-08-01 16:01:39,2023-08-01 16:01:42,3.442s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Make Appointment""))",Linux - Firefox 114.0,,,2023-08-01 16:01:42,2023-08-01 16:01:47,4.960s,PASSED
+"setText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Linux - Firefox 114.0,,,2023-08-01 16:01:47,2023-08-01 16:01:56,9.154s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Linux - Firefox 114.0,,,2023-08-01 16:01:56,2023-08-01 16:02:02,5.793s,PASSED
+"sendKeys(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Password_password""), Keys.chord(ENTER))",Linux - Firefox 114.0,,,2023-08-01 16:02:02,2023-08-01 16:02:07,4.491s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Linux - Firefox 114.0,,,2023-08-01 16:02:07,2023-08-01 16:02:11,4.649s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/label_None""))",Linux - Firefox 114.0,,,2023-08-01 16:02:11,2023-08-01 16:02:16,4.465s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Medicaid_programs""))",Linux - Firefox 114.0,,,2023-08-01 16:02:16,2023-08-01 16:02:21,5.203s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Linux - Firefox 114.0,,,2023-08-01 16:02:21,2023-08-01 16:02:26,4.560s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/td_30""))",Linux - Firefox 114.0,,,2023-08-01 16:02:26,2023-08-01 16:02:30,4.197s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/td_31""))",Linux - Firefox 114.0,,,2023-08-01 16:02:30,2023-08-01 16:02:36,5.661s,PASSED
+"setText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/textarea_Comment_comment""), ""sakit nih"")",Linux - Firefox 114.0,,,2023-08-01 16:02:36,2023-08-01 16:02:44,8.839s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/button_Book Appointment""))",Linux - Firefox 114.0,,,2023-08-01 16:02:44,2023-08-01 16:02:48,4.081s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Linux - Firefox 114.0,,,2023-08-01 16:02:48,2023-08-01 16:02:53,4.174s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/p_Tokyo CURA Healthcare Center""), ""Tokyo CURA Healthcare Center"")",Linux - Firefox 114.0,,,2023-08-01 16:02:53,2023-08-01 16:02:56,3.751s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Go to Homepage""))",Linux - Firefox 114.0,,,2023-08-01 16:02:56,2023-08-01 16:03:01,4.701s,PASSED

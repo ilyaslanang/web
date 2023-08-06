@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-demo,Chrome 115.0.0.0,,,2023-08-02 17:32:09,2023-08-02 17:33:28,1m - 18.435s,PASSED
+,,,,,,,
+Test Cases/yg lain/Booking,Chrome 115.0.0.0,,,2023-08-02 17:32:09,2023-08-02 17:32:48,38.236s,PASSED
+"callTestCase(findTestCase(""yg lain/Login""), [:], STOP_ON_FAILURE)",Chrome 115.0.0.0,,,2023-08-02 17:32:10,2023-08-02 17:32:32,22.575s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Chrome 115.0.0.0,,,2023-08-02 17:32:32,2023-08-02 17:32:34,1.492s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/label_Medicaid""))",Chrome 115.0.0.0,,,2023-08-02 17:32:34,2023-08-02 17:32:35,1.501s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Chrome 115.0.0.0,,,2023-08-02 17:32:35,2023-08-02 17:32:37,1.545s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/td_3""))",Chrome 115.0.0.0,,,2023-08-02 17:32:37,2023-08-02 17:32:38,1.640s,PASSED
+"setText(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Aku sakit hati tapi pacarku cantik dan baik"")",Chrome 115.0.0.0,,,2023-08-02 17:32:38,2023-08-02 17:32:42,3.116s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 115.0.0.0,,,2023-08-02 17:32:42,2023-08-02 17:32:44,1.991s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/appointment.php#summary"")",Chrome 115.0.0.0,,,2023-08-02 17:32:44,2023-08-02 17:32:45,1.057s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/a_Go to Homepage""))",Chrome 115.0.0.0,,,2023-08-02 17:32:45,2023-08-02 17:32:47,1.964s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/h2_Appointment Confirmation""), 0)",Chrome 115.0.0.0,,,2023-08-02 17:32:47,2023-08-02 17:32:47,0.366s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-02 17:32:47,2023-08-02 17:32:48,0.668s,PASSED
+,,,,,,,
+Test Cases/yg lain/Login n Booking,Chrome 115.0.0.0,,,2023-08-02 17:32:48,2023-08-02 17:33:28,39.891s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-02 17:32:48,2023-08-02 17:32:49,1.221s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 115.0.0.0,,,2023-08-02 17:32:49,2023-08-02 17:32:54,4.987s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/h1_CURA Healthcare Service""), ""CURA Healthcare Service"")",Chrome 115.0.0.0,,,2023-08-02 17:32:54,2023-08-02 17:32:55,0.431s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Make Appointment""), ""Make Appointment"")",Chrome 115.0.0.0,,,2023-08-02 17:32:55,2023-08-02 17:32:55,0.388s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 115.0.0.0,,,2023-08-02 17:32:55,2023-08-02 17:32:57,2.328s,PASSED
+"setText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 115.0.0.0,,,2023-08-02 17:32:57,2023-08-02 17:33:00,2.810s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 115.0.0.0,,,2023-08-02 17:33:00,2023-08-02 17:33:03,2.529s,PASSED
+"sendKeys(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Password_password""), Keys.chord(ENTER))",Chrome 115.0.0.0,,,2023-08-02 17:33:03,2023-08-02 17:33:05,2.482s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Chrome 115.0.0.0,,,2023-08-02 17:33:05,2023-08-02 17:33:07,1.478s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/label_None""))",Chrome 115.0.0.0,,,2023-08-02 17:33:07,2023-08-02 17:33:08,1.508s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Medicaid_programs""))",Chrome 115.0.0.0,,,2023-08-02 17:33:08,2023-08-02 17:33:09,1.425s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Chrome 115.0.0.0,,,2023-08-02 17:33:09,2023-08-02 17:33:11,1.479s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/td_30""))",Chrome 115.0.0.0,,,2023-08-02 17:33:11,2023-08-02 17:33:13,1.620s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/td_31""))",Chrome 115.0.0.0,,,2023-08-02 17:33:13,2023-08-02 17:33:14,1.646s,PASSED
+"setText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/textarea_Comment_comment""), ""sakit nih"")",Chrome 115.0.0.0,,,2023-08-02 17:33:14,2023-08-02 17:33:17,3.043s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 115.0.0.0,,,2023-08-02 17:33:17,2023-08-02 17:33:23,5.223s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 115.0.0.0,,,2023-08-02 17:33:23,2023-08-02 17:33:23,0.514s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/p_Tokyo CURA Healthcare Center""), ""Tokyo CURA Healthcare Center"")",Chrome 115.0.0.0,,,2023-08-02 17:33:23,2023-08-02 17:33:23,0.393s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Go to Homepage""))",Chrome 115.0.0.0,,,2023-08-02 17:33:23,2023-08-02 17:33:28,4.106s,PASSED

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find a place</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c45cc51-f028-451a-bb73-400d9e2b2cc0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>011f81e1-1ed7-4845-bc85-501f908c16c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo'</defaultValue>
+      <description></description>
+      <id>011f81e1-1ed7-4845-bc85-501f908c16c1</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+</TestCaseEntity>

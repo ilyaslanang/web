@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1room</name>
+   <tag></tag>
+   <elementGuidId>a8873fda-9a7e-4638-9ec6-5edf8824371c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='occupancy-box']/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchBoxTextDescription.SearchBoxTextDescription--occupancy > div.SearchBoxTextDescription__desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4893505-113e-49ce-9b28-f028a0361469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchBoxTextDescription__desc</value>
+      <webElementGuid>cc63e1cf-5455-4b02-ab9d-d7bb7d98aa07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selenium</name>
+      <type>Main</type>
+      <value>roomValue</value>
+      <webElementGuid>0a288f4a-fbdc-4832-8e13-b9cc11a34b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b8b4a3dd-121e-4179-9a55-6632c974adfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 room</value>
+      <webElementGuid>5d0a01c5-51a6-4e7c-8090-98efaa37e555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;occupancy-box&quot;)/div[@class=&quot;IconBox__wrapper&quot;]/div[@class=&quot;IconBox__child&quot;]/div[@class=&quot;SearchBoxTextDescription SearchBoxTextDescription--occupancy&quot;]/div[@class=&quot;SearchBoxTextDescription__desc&quot;]</value>
+      <webElementGuid>4dfd2f6d-8307-4f0a-9ac2-ab68e6054e36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='occupancy-box']/div/div/div/div[2]</value>
+      <webElementGuid>805638e4-0f75-4c5c-a922-225a67c4142c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sunday'])[1]/following::div[6]</value>
+      <webElementGuid>8dfe21d8-503f-4655-bb71-0ce5ede175ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thursday'])[1]/following::div[12]</value>
+      <webElementGuid>6c064127-e1e1-4742-9264-dc20390cdee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ages 18 or above'])[1]/preceding::div[9]</value>
+      <webElementGuid>bfc31879-98ca-459e-9922-414abce1a267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ages 0-17'])[1]/preceding::div[16]</value>
+      <webElementGuid>9248e655-546b-462c-b209-061d97674523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1 room']/parent::*</value>
+      <webElementGuid>7e070391-5987-4282-a930-4ad7e2631326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]</value>
+      <webElementGuid>aa40da7d-3baa-441d-82a2-2ea03507eafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 room' or . = '1 room')]</value>
+      <webElementGuid>0d019334-29bc-44f4-a93a-536ca65c7546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

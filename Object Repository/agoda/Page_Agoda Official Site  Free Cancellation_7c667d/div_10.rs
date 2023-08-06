@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10</name>
+   <tag></tag>
+   <elementGuidId>94eefaaf-7d5b-4b5c-967b-d58d49138dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SearchBoxContainer']/div/div/div[2]/div/div/div[6]/div/div/div/div/div[2]/div/div[3]/div[2]/div[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.PriceSurgePicker-Day__circle.PriceSurgePicker-Day__circle--filled.PriceSurgePicker-Day__circle--selected.PriceSurgePicker-Day__circle--wide</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1524029a-358c-4c40-9748-a6608a8f3432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PriceSurgePicker-Day__circle PriceSurgePicker-Day__circle--filled PriceSurgePicker-Day__circle--selected PriceSurgePicker-Day__circle--wide</value>
+      <webElementGuid>1ed01eef-5c37-4dba-869e-acaa63bf546b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>7942d669-a8e2-4ac7-b9c8-faef100fad77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchBoxContainer&quot;)/div[@class=&quot;Box-sc-kv6pi1-0 cVUuHz TabContent OpaqueBackground&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 iloTzf&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 hRUYUu&quot;]/div[@class=&quot;Searchbox Searchbox--vertical&quot;]/div[@class=&quot;Searchbox__wrapper&quot;]/div[@class=&quot;Popup__container Popup__container--garage-door&quot;]/div[@class=&quot;Popup WideRangePicker WideRangePicker--checkIn WideRangePicker--with-dayuse&quot;]/div[@class=&quot;Popup__content&quot;]/div[@class=&quot;DayPicker&quot;]/div[@class=&quot;DayPicker-wrapper&quot;]/div[@class=&quot;DayPicker-Months DayPicker-Months-Wide&quot;]/div[@class=&quot;DayPicker-Month DayPicker-Month-Wide&quot;]/div[3]/div[@class=&quot;DayPicker-Week-Wide&quot;]/div[@class=&quot;PriceSurgePicker-Day PriceSurgePicker-Day__Wide selected checkIn priceTrendInfo&quot;]/div[@class=&quot;PriceSurgePicker-Day__container PriceSurgePicker-Day__container--checkIn PriceSurgePicker-Day__container--selected PriceSurgePicker-Day__container--wide&quot;]/div[@class=&quot;PriceSurgePicker-Day__circle PriceSurgePicker-Day__circle--filled PriceSurgePicker-Day__circle--selected PriceSurgePicker-Day__circle--wide&quot;]</value>
+      <webElementGuid>7a6dab4c-617f-459c-8d8c-282fc5f64906</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SearchBoxContainer']/div/div/div[2]/div/div/div[6]/div/div/div/div/div[2]/div/div[3]/div[2]/div[4]/div/div</value>
+      <webElementGuid>24612f21-a731-4707-baeb-8b905aa3df6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::div[34]</value>
+      <webElementGuid>4c6de91c-24c5-4f15-9082-2c85275ef901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[35]</value>
+      <webElementGuid>c6052f36-9d2b-4d10-b5a9-ce66e21f8f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2023'])[1]/preceding::div[70]</value>
+      <webElementGuid>96bcfa8e-e9ac-46d1-a995-b8ed517cc94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[2]/preceding::div[71]</value>
+      <webElementGuid>946eb5b8-ac8a-494c-b4ae-ded0187c9dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[4]/div/div</value>
+      <webElementGuid>d3cd5b67-13cf-4e41-8d90-2da62381e605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '10' or . = '10')]</value>
+      <webElementGuid>f14cf416-d3b9-436f-89ce-c3a3cb100507</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

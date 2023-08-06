@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-demo,Windows - Chrome 114.0.0.0,,,2023-08-01 15:14:21,2023-08-01 15:20:38,6m - 17.513s,PASSED
+,,,,,,,
+Test Cases/yg lain/Booking,Windows - Chrome 114.0.0.0,,,2023-08-01 15:14:21,2023-08-01 15:17:08,2m - 47.011s,PASSED
+"callTestCase(findTestCase(""yg lain/Login""), [:], STOP_ON_FAILURE)",Windows - Chrome 114.0.0.0,,,2023-08-01 15:14:21,2023-08-01 15:16:13,1m - 52.042s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:13,2023-08-01 15:16:19,5.447s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/label_Medicaid""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:19,2023-08-01 15:16:24,5.324s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:24,2023-08-01 15:16:30,5.704s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/td_3""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:30,2023-08-01 15:16:36,5.850s,PASSED
+"setText(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Aku sakit hati tapi pacarku cantik dan baik"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:36,2023-08-01 15:16:46,10.213s,PASSED
+"click(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/button_Book Appointment""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:46,2023-08-01 15:16:52,5.940s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/appointment.php#summary"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:52,2023-08-01 15:16:54,2.014s,PASSED
+"rightClick(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/a_Go to Homepage""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:54,2023-08-01 15:16:59,4.656s,PASSED
+"rightClick(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/h2_Appointment Confirmation""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:16:59,2023-08-01 15:17:03,4.111s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Booking/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:17:03,2023-08-01 15:17:06,3.289s,PASSED
+closeBrowser(),Windows - Chrome 114.0.0.0,,,2023-08-01 15:17:06,2023-08-01 15:17:08,1.939s,PASSED
+,,,,,,,
+Test Cases/yg lain/Login n Booking,Windows - Chrome 114.0.0.0,,,2023-08-01 15:17:08,2023-08-01 15:20:38,3m - 30.162s,PASSED
+"openBrowser("""")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:17:08,2023-08-01 15:18:52,1m - 43.919s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:18:52,2023-08-01 15:18:55,3.099s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/h1_CURA Healthcare Service""), ""CURA Healthcare Service"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:18:55,2023-08-01 15:18:59,4.231s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Make Appointment""), ""Make Appointment"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:18:59,2023-08-01 15:19:04,4.845s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Make Appointment""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:04,2023-08-01 15:19:10,5.377s,PASSED
+"setText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:10,2023-08-01 15:19:21,11.236s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:21,2023-08-01 15:19:28,7.463s,PASSED
+"sendKeys(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Password_password""), Keys.chord(ENTER))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:28,2023-08-01 15:19:34,5.574s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:34,2023-08-01 15:19:40,6.099s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/label_None""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:40,2023-08-01 15:19:45,5.120s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Medicaid_programs""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:45,2023-08-01 15:19:50,5.017s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:50,2023-08-01 15:19:56,5.635s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/td_30""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:19:56,2023-08-01 15:20:01,5.406s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/td_31""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:20:01,2023-08-01 15:20:07,5.536s,PASSED
+"setText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/textarea_Comment_comment""), ""sakit nih"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:20:07,2023-08-01 15:20:18,11.461s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/button_Book Appointment""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:20:18,2023-08-01 15:20:24,6.265s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:20:24,2023-08-01 15:20:29,4.780s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/p_Tokyo CURA Healthcare Center""), ""Tokyo CURA Healthcare Center"")",Windows - Chrome 114.0.0.0,,,2023-08-01 15:20:29,2023-08-01 15:20:33,4.027s,PASSED
+"click(findTestObject(""Object Repository/Login-Booking/Page_CURA Healthcare Service/a_Go to Homepage""))",Windows - Chrome 114.0.0.0,,,2023-08-01 15:20:33,2023-08-01 15:20:38,4.757s,PASSED

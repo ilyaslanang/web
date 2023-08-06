@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Day Use Stays_IconBox__wrapper</name>
+   <tag></tag>
+   <elementGuidId>89b953a5-d11b-4772-8e74-f4e660fe2823</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autocomplete-box']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.IconBox__wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>330506d6-3b16-40c2-8ca1-a98153d103af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>IconBox__wrapper</value>
+      <webElementGuid>4fda23f9-a4da-4cde-9de4-69632fa4c86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autocomplete-box&quot;)/div[@class=&quot;IconBox__wrapper&quot;]</value>
+      <webElementGuid>ceebf918-719c-466b-a47d-d9ffd48a8cd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocomplete-box']/div</value>
+      <webElementGuid>57e48c06-b19b-4847-8213-1dd9fea20497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day Use Stays'])[1]/following::div[2]</value>
+      <webElementGuid>58d7be89-cc85-4237-80f7-f255098cc408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overnight Stays'])[1]/following::div[3]</value>
+      <webElementGuid>2669a929-e0df-4a97-8164-b4c712466721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thursday'])[1]/preceding::div[3]</value>
+      <webElementGuid>f93d5519-4456-4471-a941-da54a5e2f90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Friday'])[1]/preceding::div[9]</value>
+      <webElementGuid>da5c5939-a9ef-458f-924c-488359b11a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>70a588cb-f53c-486f-b00e-332f6b14dd03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

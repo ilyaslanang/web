@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_sg-pc-6g-acm-web-user-64f657c9bb-ntjwx__374f9a</name>
+   <tag></tag>
+   <elementGuidId>e5bce932-8333-47c5-9265-0d2c69654121</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ScreenDimmer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eac18c09-d9df-46bb-b10c-dd47188a6350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ScreenDimmer</value>
+      <webElementGuid>f7d20f6e-ce90-4802-b08c-3c22728d37f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;chrome no-js&quot;]/body[@class=&quot;newhome desktop ltr themed theme-agoda window-loaded&quot;]/div[@class=&quot;ScreenDimmer&quot;]</value>
+      <webElementGuid>9c192839-d910-4ae0-999d-735ae0615750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]</value>
+      <webElementGuid>fb097eb7-a68a-4e8f-b707-7df7dc5d6495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

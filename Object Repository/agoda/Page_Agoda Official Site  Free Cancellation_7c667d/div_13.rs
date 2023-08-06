@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_13</name>
+   <tag></tag>
+   <elementGuidId>56c6752e-53e5-43f1-ba42-db87255bd0c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SearchBoxContainer']/div/div/div[2]/div/div/div[6]/div/div/div/div/div[2]/div/div[3]/div[2]/div[7]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.PriceSurgePicker-Day__container.PriceSurgePicker-Day__container--checkOut.PriceSurgePicker-Day__container--selected.PriceSurgePicker-Day__container--wide > div.PriceSurgePicker-Day__circle.PriceSurgePicker-Day__circle--filled.PriceSurgePicker-Day__circle--selected.PriceSurgePicker-Day__circle--wide</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>689bd91f-5fc2-466d-99b9-e62b3b3cb496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PriceSurgePicker-Day__circle PriceSurgePicker-Day__circle--filled PriceSurgePicker-Day__circle--selected PriceSurgePicker-Day__circle--wide</value>
+      <webElementGuid>08e31390-19dc-4c09-9ed1-eeccaaa5ff68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>7fbc7464-cb36-42ba-a786-394aa6c4af96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchBoxContainer&quot;)/div[@class=&quot;Box-sc-kv6pi1-0 cVUuHz TabContent OpaqueBackground&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 iloTzf&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 hRUYUu&quot;]/div[@class=&quot;Searchbox Searchbox--vertical&quot;]/div[@class=&quot;Searchbox__wrapper&quot;]/div[@class=&quot;Popup__container Popup__container--garage-door&quot;]/div[@class=&quot;Popup WideRangePicker WideRangePicker--checkOut WideRangePicker--with-dayuse&quot;]/div[@class=&quot;Popup__content&quot;]/div[@class=&quot;DayPicker&quot;]/div[@class=&quot;DayPicker-wrapper&quot;]/div[@class=&quot;DayPicker-Months DayPicker-Months-Wide&quot;]/div[@class=&quot;DayPicker-Month DayPicker-Month-Wide&quot;]/div[3]/div[@class=&quot;DayPicker-Week-Wide&quot;]/div[@class=&quot;PriceSurgePicker-Day PriceSurgePicker-Day__Wide selected checkOut weekends priceTrendInfo&quot;]/div[@class=&quot;PriceSurgePicker-Day__container PriceSurgePicker-Day__container--checkOut PriceSurgePicker-Day__container--selected PriceSurgePicker-Day__container--wide&quot;]/div[@class=&quot;PriceSurgePicker-Day__circle PriceSurgePicker-Day__circle--filled PriceSurgePicker-Day__circle--selected PriceSurgePicker-Day__circle--wide&quot;]</value>
+      <webElementGuid>4b4bb772-0e03-4fb1-83b1-7bdd0e6d0596</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SearchBoxContainer']/div/div/div[2]/div/div/div[6]/div/div/div/div/div[2]/div/div[3]/div[2]/div[7]/div/div</value>
+      <webElementGuid>17b606de-904b-478f-93e9-f85fa102787f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::div[43]</value>
+      <webElementGuid>6a211e15-c9f1-43a3-a703-5f0366a2ea9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[44]</value>
+      <webElementGuid>3cf2cbb3-721a-4747-b374-c26b733d7524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2023'])[1]/preceding::div[61]</value>
+      <webElementGuid>4695edc2-97bf-4882-b74e-145187164ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[2]/preceding::div[62]</value>
+      <webElementGuid>c7846d49-553f-4ee7-8869-ddcad7c95424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[7]/div/div</value>
+      <webElementGuid>8464bfe2-cb96-40c7-aec2-2a487f001d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '13' or . = '13')]</value>
+      <webElementGuid>24463709-a180-47a7-b63b-968d6ae0ee69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
